@@ -1,29 +1,18 @@
-name: pixelwarpstudios.com
-favicon: null
-layout_spectrum: 0.5831012513954192
-typography_spectrum: 0.5831994926556945
-title: Virtual Reality
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#494644'
+    - '#A8A8A0'
+    - '#782820'
+    - '#989898'
+    - '#904038'
     - '#000000'
-    - '#f78508'
-    - '#ffffff'
-    - '#bebdbd'
   brandStrength: 0.3125
-  lightness: 0.7750863870605826
-  saturation: 0.8261620667763054
-  rhythmicContrast: 0.9198083123192191
+  lightness: 0.775086
+  rhythmicContrast: 0.919808
+  saturation: 0.826162
+cta: {}
+layout_spectrum: 0.05518
+name: pixelwarpstudios.com
+opengraph: {}
 purpose: []
+typography_spectrum: 0.494369
